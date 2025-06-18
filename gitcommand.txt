@@ -10,4 +10,5 @@ git remote add origin githubrepolink
 git remote -v
 git push origin master
 git clone repo link which is on github account
+clear
 
